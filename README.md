@@ -1,0 +1,1 @@
+ A Data Anayalyis project. It focuses on fetching large data sets of company from  social media platforms for this case its X(twitter) and how best there can use the collected data to influence the company`s decision making. 
